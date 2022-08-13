@@ -1,0 +1,48 @@
+h1 {
+    background-color: snow;
+    color: black;
+    width: 1525;
+    height: 50;
+}
+
+body {
+    background-image: url('wallpaperflare.com_wallpaper.jpg');
+
+    background-color: aliceblue;
+}
+
+.A {
+
+    padding-left: 35%;
+    width: fit-content;
+
+
+}
+
+.B {
+
+    padding-top: 5%;
+    padding-left: 40%;
+
+}
+
+.C {
+    color: black;
+    padding-left: 2mm;
+}
+
+.v {
+
+    padding-left: 50mm;
+
+
+
+}
+
+.m {
+
+    padding-left: 35mm;
+
+
+
+}
